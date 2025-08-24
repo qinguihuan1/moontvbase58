@@ -120,16 +120,6 @@
       "name": "卧龙资源站资源",
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "detail": "https://wolongzyw.com"
-    },
-    "api_25": {
-      "name": "",
-      "api": "",
-      "detail": ""
-    },
-    "api_26": {
-      "name": "",
-      "api": "",
-      "detail": ""
-    },
+    }
   }
 }
