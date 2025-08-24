@@ -5,6 +5,11 @@
        "name": "示例资源",
       "api": "http://xxx.com/api.php/provide/vod",
       "detail": "http://xxx.com"
-    }
+    },
+        "api_1": {
+       "name": "",
+      "api": "",
+      "detail": ""
+    },
   }
 }
