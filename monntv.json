@@ -102,11 +102,31 @@
       "detail": "https://dbzy1.com"
     },
     "api_21": {
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jisuzy.com"
+    },
+    "api_22": {
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://xinlangzy.com"
+    },
+    "api_23": {
+      "name": "奥斯卡资源站",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "https://aosikazy.com"
+    },
+    "api_24": {
+      "name": "卧龙资源站资源",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "detail": "https://wolongzyw.com"
+    },
+    "api_25": {
       "name": "",
       "api": "",
       "detail": ""
     },
-    "api_22": {
+    "api_26": {
       "name": "",
       "api": "",
       "detail": ""
