@@ -2,14 +2,99 @@
   "cache_time": 7200,
   "api_site": {
     "api_1": {
-       "name": "示例资源",
-      "api": "http://xxx.com/api.php/provide/vod",
-      "detail": "http://xxx.com"
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://mtzy5.com"
     },
-        "api_1": {
-       "name": "",
-      "api": "",
+    "api_2": {
+      "name": "快播资源",
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "detail": "https://kbzy1.com"
+    },
+    "api_3": {
+      "name": "杏吧资源站",
+      "api": "https://api.xgbbk8.com/api.php/provide/vod",
+      "detail": "https://sex8zy8.com"
+    },
+    "api_4": {
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "detail": "https://dbzy1.com/"
+    },
+    "api_5": {
+      "name": "91精品资源网",
+      "api": "https://91jpzyw.com/api.php/provide/vod",
+      "detail": "https://91jpzyw.com/"
+    },
+    "api_6": {
+      "name": "大奶子资源网",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
       "detail": ""
     },
+    "api_7": {
+      "name": "天涯影视资源网",
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com"
+    },
+    "api_8": {
+      "name": "爱奇艺资源站",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://www.iqiyizy.com"
+    },
+    "api_9": {
+      "name": "电影天堂资源站",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://dyttzyw.tv"
+    },
+    "api_10": {
+      "name": "小鸡资源采集站",
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "detail": "https://xiaojizy.live"
+    },
+    "api_11": {
+      "name": "细胞网资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "detail": "https://xibaozyw.com/"
+    },
+    "api_12": {
+      "name": "搜av资源站",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "detail": "https://souavzy9.com"
+    },
+    "api_13": {
+      "name": "魔爪资源采集网",
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "detail": "https://mzzy.me"
+    },
+    "api_14": {
+      "name": "如意资源站",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "api_15": {
+      "name": "旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "detail": "https://wwzy.tv"
+    },
+    "api_16": {
+      "name": "桃花资源",
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "detail": "https://thzy5.me"
+    },
+    "api_17": {
+      "name": "老色逼资源站",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "detail": "https://laosebizy.com"
+    },
+    "api_18": {
+      "name": "360资源站360资源站",
+      "api": "https://360zyzz.com/api.php/provide/vod ",
+      "detail": "https://360zy.com"
+    },
+    "api_19": {
+      "name": "豪华资源网",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://haohuazy.com"
+    }
   }
 }
