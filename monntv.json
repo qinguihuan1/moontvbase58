@@ -1,1 +1,10 @@
-
+{
+  "cache_time": 7200,
+  "api_site": {
+    "api_1": {
+       "name": "示例资源",
+      "api": "http://xxx.com/api.php/provide/vod",
+      "detail": "http://xxx.com"
+    }
+  }
+}
