@@ -95,6 +95,21 @@
       "name": "豪华资源网",
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://haohuazy.com"
-    }
+    },
+    "api_20": {
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "detail": "https://dbzy1.com"
+    },
+    "api_21": {
+      "name": "",
+      "api": "",
+      "detail": ""
+    },
+    "api_22": {
+      "name": "",
+      "api": "",
+      "detail": ""
+    },
   }
 }
