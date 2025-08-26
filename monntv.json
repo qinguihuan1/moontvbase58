@@ -6,11 +6,6 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy5.com"
     },
-    "api_2": {
-      "name": "快播资源",
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "detail": "https://kbzy1.com"
-    },
     "api_3": {
       "name": "杏吧资源站",
       "api": "https://api.xgbbk8.com/api.php/provide/vod",
